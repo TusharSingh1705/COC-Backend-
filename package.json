@@ -1,0 +1,16 @@
+{
+  "name": "lec-6-onwards",
+  "version": "1.0.0",
+  "description": "Chai Or Code",
+  "repository": {
+    "type": "git",
+    "url": "JavaScript, Backend"
+  },
+  "license": "ISC",
+  "author": "Tushar Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
