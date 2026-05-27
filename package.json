@@ -2,15 +2,18 @@
   "name": "lec-6-onwards",
   "version": "1.0.0",
   "description": "Chai Or Code",
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "JavaScript, Backend"
   },
   "license": "ISC",
   "author": "Tushar Singh",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
